@@ -1,0 +1,15 @@
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\bin\Release\SystemActivationHelper.exe.config
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\bin\Release\SystemActivationHelper.exe
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\bin\Release\SystemActivationHelper.pdb
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\[milkchan] SystemActivationHelper.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\SystemActivationHelper.Properties.Resources.resources
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\[milkchan] SystemActivationHelper.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\[milkchan] SystemActivationHelper.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\SystemActivationHelper.exe
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\SystemActivationHelper.pdb
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\bin\Release\SystemActivationHelper.exe.manifest
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\bin\Release\SystemActivationHelper.application
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\SystemActivationHelper.TrustInfo.xml
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\SystemActivationHelper.exe.manifest
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\SystemActivationHelper.application
+C:\Users\dev\source\repos\[milkchan] SystemActivationHelper\[milkchan] SystemActivationHelper\obj\Release\_milkchan__SystemActivationHelper.Form1.resources
